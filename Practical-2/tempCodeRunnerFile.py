@@ -1,0 +1,5 @@
+t(image.flatten(), bins=50, color="blue", alpha=0.7, edgecolor="black") 
+    plt.title(title) 
+    plt.xlabel("Pixel Intensity") 
+    plt.ylabel("Frequency") 
+    plt.show() 
